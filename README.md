@@ -7,10 +7,10 @@ A PCB is used to solder on two P75-B1 test needles. Distance between needle tips
 
 Parts needed per probe:
 
-front probe body
-rear probe body
-PCB from Github link
-P75-B1 test needles (2 pieces)
-RG174-cable (with BNC connector)
-heatshrink tube (inner diameter before shrinking 6.4 mm / shrinking rate 3:1)
-adapter (BNC female to banana plugs)
+- front probe body
+- rear probe body
+- PCB from Github link
+- P75-B1 test needles (2 pieces)
+- RG174-cable (with BNC connector)
+- heatshrink tube (inner diameter before shrinking 6.4 mm / shrinking rate 3:1)
+- adapter (BNC female to banana plugs)
