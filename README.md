@@ -9,7 +9,7 @@ Parts needed per probe:
 
 - front probe body
 - rear probe body
-- PCB from Github link
+- PCB from Gerber folder
 - P75-B1 test needles (2 pieces)
 - RG174-cable (with BNC connector)
 - heatshrink tube (inner diameter before shrinking 6.4 mm / shrinking rate 3:1)
