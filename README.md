@@ -7,9 +7,9 @@ A PCB is used to solder on two P75-B1 test needles. Distance between needle tips
 
 Parts needed per probe:
 
-- front probe body
-- rear probe body
-- PCB from Gerber folder
+- front probe body from 3D folder within this project
+- rear probe body from 3D folder within this project
+- PCB from Gerber folder within this project
 - P75-B1 test needles (2 pieces)
 - RG174-cable (with BNC connector)
 - heatshrink tube (inner diameter before shrinking 6.4 mm / shrinking rate 3:1)
