@@ -13,4 +13,5 @@ Parts needed per probe:
 - P75-B1 test needles (2 pieces)
 - RG174-cable (with BNC connector)
 - heatshrink tube (inner diameter before shrinking 6.4 mm / shrinking rate 3:1)
+- glue to stick together the front and the rear body part of the probe
 - adapter (BNC female to banana plugs)
